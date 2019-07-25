@@ -10,7 +10,7 @@ rather than from where the most recent input -->
 
 <head>
 
-<title>Chatbox</title>
+<title>Chatbot</title>
 
 <link href="https://fonts.googleapis.com/css?family=Bungee+Hairline|Bungee+Inline|Bungee+Outline|Bungee+Shade&display=swap" rel="stylesheet">
 
@@ -283,7 +283,6 @@ elseif(array_key_exists('no', $_POST)) : ?>
 	<?php botoutput("No problem! We look forward to talking soon! Have a nice day");
 
 endif; ?>
-
 
 
 
